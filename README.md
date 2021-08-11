@@ -18,9 +18,9 @@ Building a custom URL shortening service like cutt.ly using ExpressJs and Mongod
 
 - ### Back end
 
-  - [Express](https://expressjs.com/)- Nodejs framwork for building the REST Apis
-  - [Mongodb](http://mongodb.com/)- Document oriented NoSQL database
-  - [Mongoose](https://http://mongoosejs.com)- MongoDB object modeling tool
+  - [Express](https://expressjs.com/)
+  - [Mongodb](http://mongodb.com/)
+  - [Mongoose](https://http://mongoosejs.com)
   - [Ejs](https://github.com/mde/ejs)
   - [Express-Ejs-Layouts](https://github.com/soarez/express-ejs-layouts)
 
