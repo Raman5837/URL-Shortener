@@ -9,6 +9,7 @@
 
 </br>
 Building a custom URL shortening service like cutt.ly using ExpressJs and Mongodb
+<img src="https://github.com/Raman5837/URL-Shortener/blob/master/URL%20Shortner.jpg" alt="architecture" />
 
 ## Architecture
 
