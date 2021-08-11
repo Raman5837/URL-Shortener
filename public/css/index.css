@@ -1,0 +1,30 @@
+:placeholder-shown{
+    border: 2px solid #ffffff;
+    border-bottom-color: black;
+    color: black
+}
+label{
+    font-weight: 500;
+
+}
+.Button:hover{
+
+    transform: translate(0, 5px);
+}
+.ShortUrlInput{
+    background: #D1E7DD;
+    padding: 2px 1rem;
+    border: none;
+    margin-left: 1rem;
+    width: 100%;
+    
+}
+
+.UrlButton{
+    background: transparent;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 2px 1rem;
+    margin-left: 50px
+
+}

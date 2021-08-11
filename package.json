@@ -1,0 +1,28 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "URL Shortner Using NodeJS, ExpressJS and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raman5837/URL-Shortener.git"
+  },
+  "author": "Aman Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raman5837/URL-Shortener/issues"
+  },
+  "homepage": "https://github.com/Raman5837/URL-Shortener#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.1",
+    "mongoose": "^5.13.6",
+    "nodemon": "^2.0.12"
+  }
+}
