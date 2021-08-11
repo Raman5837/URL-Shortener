@@ -12,7 +12,7 @@ Building a custom URL shortening service like cutt.ly using ExpressJs and Mongod
 
 ## Architecture
 
-<img src="sketch/architecture.png" alt="architecture" />
+<img src="https://github.com/Raman5837/URL-Shortener/blob/master/architecture.png" alt="architecture" />
 
 ## Technologies
 
@@ -27,7 +27,7 @@ Building a custom URL shortening service like cutt.ly using ExpressJs and Mongod
 - ### Front end
 
   - [HTML](https://html.com/)
-  - [CSS]
+  - [CSS]()
   - [Bootstrap](https://getbootstrap.com/)
 
 ## Getting Started
